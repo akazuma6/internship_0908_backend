@@ -1,9 +1,12 @@
 import React from "react";
+import Bar from "./Bar";
+
 
 function Header ()  {
     return(
         <>
-        <h1>ブログ投稿サイト</h1>
+        <Bar />
+        <h1></h1>
         </>
     );
 }
