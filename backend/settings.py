@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'posts', # 作成したアプリを追加
+    'employees',
 ]
 
 MIDDLEWARE = [
